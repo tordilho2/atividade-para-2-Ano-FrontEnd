@@ -1,1 +1,9 @@
 /* Use :first-child e :last-child para estilizar os itens da lista */
+
+        ul li:first-child {
+            font-weight: bold;
+        }
+        ul li:last-child {
+            font-style: italic;
+        }
+    
